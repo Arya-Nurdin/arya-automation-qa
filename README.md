@@ -2,9 +2,6 @@
 **Ini merupakan contoh pengujian automasi menggunakan plywright, total 10 test case yang saya buat
 menggunakan website dummy https://www.saucedemo.com untuk implementasi pengujian**
 
-
-# Saucedemo Automation
-
 Proyek otomasi UI untuk [saucedemo.com](https://www.saucedemo.com) menggunakan **JavaScript + Playwright** dengan pola **Page Object Model (POM)**.
 
 ## Struktur Proyek
